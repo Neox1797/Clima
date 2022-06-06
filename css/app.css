@@ -1,0 +1,21 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.spin{
+			height: 200px;
+			width: 200px;
+		}
+
+.contene{
+			height: 650px; 
+			border-radius: 1rem;
+		}
+.textop{
+    word-wrap: break-word;
+}
+
+.textodiv{
+    display:inline-block;
+}
